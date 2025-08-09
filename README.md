@@ -1,5 +1,5 @@
 
-# Tüm botlarım public botlar için yapıldı, güzel bir star ve fork gelirse salarım buraya, diğer bozuk altyapılar gibi değil ya da karmakarışık bir altyapı değil
+# Tüm botlarım public botlar için yapıldı, güzel bir star ve fork gelirse salarım buraya, diğer bozuk altyapılar gibi değil ya da karmakarışık değil, güncelledikçe görselleri eklerim.
 - **Direkt olarak tüm ayarlar içinde uzun bir config/ayarlar.js dosyası var oradan düzenliyosunuz bu kadar bazı kodların içine kanal ID'si vs. girilmiş oraları değiştirirsiniz işte.**
 - **Guard Web panel üzerinden çalışıyor, whitelist ekleyip silebiliyorsunuz, vainty url düzenleyebiliyosunuz falan.**
 - **Welcome Botları, hepsi ayrı sese girip hoşgeldin sesi ve yetkili odaya giriş yaptı sesi çalıyor.**
