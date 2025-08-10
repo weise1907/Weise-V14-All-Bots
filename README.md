@@ -6,7 +6,8 @@
 - **Rooms Botu, bildiğiniz oda botu işte sese girince oda oluşturuyor ayarları düzenleyebiliyosunuz vs. vs.**
 
 ## Görseller Aşağıda
-<img width="1862" height="956" alt="Image" src="https://github.com/user-attachments/assets/d68ad74f-8aaa-4e4c-a7c4-fbc3692405ca" />
+<img width="1870" height="951" alt="Image" src="https://github.com/user-attachments/assets/19ebc4c1-ec50-439d-938e-1538f9792b87" />
+<img width="1862" height="743" alt="Image" src="https://github.com/user-attachments/assets/cb865e7c-c8cd-4ccd-95e2-339ce3ff197c" />
 <img width="348" height="381" alt="Image" src="https://github.com/user-attachments/assets/250b0e59-3b11-45aa-bc01-83448ef18d51" />
 <img width="611" height="335" alt="Image" src="https://github.com/user-attachments/assets/bfceb086-ef30-41e9-a18a-c39745514b98" />
 <img width="570" height="362" alt="Image" src="https://github.com/user-attachments/assets/44e46407-c468-4433-b501-3ea4e8b88b06" />
