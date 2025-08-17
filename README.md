@@ -4,6 +4,7 @@
 - **Guard Web panel üzerinden çalışıyor, whitelist ekleyip silebiliyorsunuz, vainty url düzenleyebiliyosunuz falan.**
 - **Welcome Botları, hepsi ayrı sese girip hoşgeldin sesi ve yetkili odaya giriş yaptı sesi çalıyor.**
 - **Rooms Botu, bildiğiniz oda botu işte sese girince oda oluşturuyor ayarları düzenleyebiliyosunuz vs. vs.**
+- **Müzik Botu, web panel üzerinden de yönetiliyor sunucu içinden de kafanıza göre.**
 
 ## Görseller Aşağıda
 <img width="1870" height="951" alt="Image" src="https://github.com/user-attachments/assets/19ebc4c1-ec50-439d-938e-1538f9792b87" />
@@ -27,3 +28,4 @@
 <img width="398" height="194" alt="Image" src="https://github.com/user-attachments/assets/5a287698-60f5-4222-a508-f60f1d8b9731" />
 <img width="511" height="321" alt="Image" src="https://github.com/user-attachments/assets/5d4288d4-4357-4099-9412-d5380b8b87f8" />
 <img width="529" height="250" alt="Image" src="https://github.com/user-attachments/assets/6a7df6dd-05dd-4641-a001-d2f2f44285cc" />
+<img width="1871" height="953" alt="Image" src="https://github.com/user-attachments/assets/6f09152b-9a8b-4974-bddb-04f4ec1dfff0" />
